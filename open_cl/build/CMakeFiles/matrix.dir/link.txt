@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/matrix.dir/main.cc.o  -o matrix  -Wl,-rpath,/home/vasilii/programming/parallel_prog_7_sem/opencl_toolchain/OpenCL-ICD-Loader/build /home/vasilii/programming/parallel_prog_7_sem/opencl_toolchain/OpenCL-ICD-Loader/build/libOpenCL.so.1.2 -ldl 

@@ -1,0 +1,4 @@
+/home/vasilii/programming/parallel_prog_7_sem/open_cl/build/CMakeFiles/rebuild_cache.dir
+/home/vasilii/programming/parallel_prog_7_sem/open_cl/build/CMakeFiles/edit_cache.dir
+/home/vasilii/programming/parallel_prog_7_sem/open_cl/build/CMakeFiles/params.dir
+/home/vasilii/programming/parallel_prog_7_sem/open_cl/build/CMakeFiles/matrix.dir
